@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.brscan</groupId>
   <artifactId>serasa-idf-liveness3d-android</artifactId>
-  <version>1.1.0</version>
+  <version>1.2.0</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -19,7 +19,7 @@
     <dependency>
       <groupId>com.github.brscan</groupId>
       <artifactId>serasa-idf-liveness3d-facetec-android</artifactId>
-      <version>9.4.14</version>
+      <version>9.4.19</version>
     </dependency>
     <dependency>
       <groupId>com.google.code.gson</groupId>
